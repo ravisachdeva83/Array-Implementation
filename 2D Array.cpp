@@ -5,7 +5,7 @@
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
-//2D Array Implementation 1.1
+//2D Array Implementation 1.2
 #include <iostream>
 
 using namespace std;
